@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MariaGabrieleAR
+- 👋 Hi, I’m Maria Gabriele
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning  Front-end e Back-end JAVA  
-- 💞️ I’m looking to collaborate com minha criatividade
-- 📫 How to reach me  instagram:@maahgabriele ou gbialvees@gmail.com
+- 💞️ I’m looking to collaborate with my criative
+- 📫 How to reach me  instagram:@maahgabriele or gbialvees@gmail.com
 
 <!---
 MariaGabrieleAR/MariaGabrieleAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
