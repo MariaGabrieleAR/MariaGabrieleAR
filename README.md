@@ -1,5 +1,4 @@
 ## Olá, eu sou a Maria Gabriele!
-- 🌱 I’m currently learning  Front-end, Back-end and Engenharia de Dados
 - 💞️ I’m looking to collaborate with my criative
 
 <a href="https://github.com/mariagabrielear">
